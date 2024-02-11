@@ -1,10 +1,6 @@
 ---
 title: Needashitcoin.eth
 blocks:
-  - body: |
-      needashitcoin.eth
-    color: tint
-    _template: content
   - headline: Welcome to Need A Shitcoin
     text: |
       This project is set up to show you the basics of losing Money in crypto.
@@ -18,12 +14,14 @@ blocks:
         icon: false
         link: ''
     image:
-      src: /uploads/unsplash-75EFpyXu3Wg.jpg
-      alt: >-
-        Photo of palm trees at sunset by Adam Birkett -
-        unsplash.com/photos/75EFpyXu3Wg
+      src: /uploads/llama-2.avif
+      alt: ''
     color: default
     _template: hero
+  - body: |
+      needashitcoin.eth
+    color: tint
+    _template: content
   - items:
       - icon:
           name: BiCodeBlock
