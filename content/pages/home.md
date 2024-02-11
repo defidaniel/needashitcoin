@@ -9,10 +9,10 @@ blocks:
         type: button
         icon: true
         link: /posts
-      - label: Read Blog
-        type: link
+      - label: ''
+        type: ''
         icon: false
-        link: /posts
+        link: ''
     image:
       src: /uploads/unsplash-75EFpyXu3Wg.jpg
       alt: >-
