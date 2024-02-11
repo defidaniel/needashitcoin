@@ -18,10 +18,6 @@ blocks:
       alt: ''
     color: tint
     _template: hero
-  - body: |
-      needashitcoin.eth
-    color: tint
-    _template: content
   - items:
       - icon:
           name: BiCodeBlock
@@ -53,5 +49,9 @@ blocks:
     author: Phil Karlton
     color: primary
     _template: testimonial
+  - body: |
+      needashitcoin.eth
+    color: tint
+    _template: content
 ---
 
