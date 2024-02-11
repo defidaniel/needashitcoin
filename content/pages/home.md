@@ -1,6 +1,8 @@
 ---
 title: Needashitcoin.eth
 blocks:
+  - body: ''
+    _template: content
   - headline: Welcome to Need A Shitcoin
     text: |
       This project is set up to show you the basics of losing Money in crypto.
