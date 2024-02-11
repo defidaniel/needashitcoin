@@ -14,7 +14,7 @@ blocks:
         icon: false
         link: ''
     image:
-      src: /uploads/llama-2.avif
+      src: /uploads/EMXhenqXsAAWYGd.jpg-large.jpeg
       alt: ''
     color: tint
     _template: hero
