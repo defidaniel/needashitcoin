@@ -16,7 +16,7 @@ blocks:
     image:
       src: /uploads/llama-2.avif
       alt: ''
-    color: default
+    color: tint
     _template: hero
   - body: |
       needashitcoin.eth
