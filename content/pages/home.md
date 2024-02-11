@@ -1,7 +1,9 @@
 ---
 title: Needashitcoin.eth
 blocks:
-  - body: ''
+  - body: |
+      needashitcoin.eth
+    color: tint
     _template: content
   - headline: Welcome to Need A Shitcoin
     text: |
